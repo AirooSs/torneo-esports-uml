@@ -1,0 +1,23 @@
+Entornos de Desarrollo- actividad UML 3º trimestre – Francisco José Soria Navarrete 
+
+ 
+
+¿Quiénes son los actores que interactúan con el sistema? 
+
+Actor 1- Organizador del torneo 
+
+Actor 2 – Consultor de estadísticas 
+
+Actor 3 – Gestor de premios 
+
+¿Cuáles son las acciones que cada actor puede realizar? 
+
+Actor 1:  Crea el torneo, genera los emparejamientos, inscribe a los equipos y registra los resultados. 
+
+Actor 2: Actualiza clasificación del torneo y consulta información de equipo y club. 
+
+Actor 3: Asigna premios a los ganadores y muestra quienes son. 
+
+¿Cómo se relacionan entre sí las entidades del sistema? 
+
+Todas se relacionan mediante <include>, excepcionado algunas con <extends>. 
