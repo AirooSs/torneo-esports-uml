@@ -1,0 +1,39 @@
+Interfaz donde el usuario puede:
+
+  Crear torneos
+
+  Ver lista de torneos
+
+  Ver clasificación
+
+Permite:
+
+  Ver equipos
+
+  Inscribir equipos en torneos
+
+  Consultar estado
+
+Métodos:
+
+  mostrarEquiposDisponibles()
+
+  formularioInscripcion()
+
+  PantallaPartido / PartidoUI
+
+Funciones:
+
+  Mostrar calendario de partidos
+
+  Registrar resultados
+
+Métodos:
+
+  mostrarPartidos()
+
+  formularioResultado()
+
+PantallaPrincipal / MenuUI
+
+Donde el usuario elige qué hacer.
