@@ -1,0 +1,26 @@
+GestorTorneo:
+  crearTorneo()
+
+  generarEmparejamiento()
+
+  actualizarClasificacion()
+
+  comprobarExistencia()
+
+GestorEquipo:
+  inscribirseEnTorneo(torneo)
+
+  comprobarInscripcion(torneo)
+
+  comprobarDisponibilidad()
+
+GestorPartido:
+  registrarResultado(partido)
+
+GestorClasificacion:
+  mostrarGanadores()
+
+  asignarPremios()
+
+  actualizar()
+  
