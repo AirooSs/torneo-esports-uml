@@ -1,0 +1,11 @@
+Torneo
+Representa un torneo en sí. Contiene información como nombre, fecha, equipos inscritos y clasificación.
+
+Equipo
+Representa a un equipo de jugadores. Tiene atributos como nombre, jugadores, estado y su club.
+
+Club
+Entidad que agrupa uno o varios equipos.
+
+Partido
+Representa un enfrentamiento entre dos equipos, con atributos como resultado y fecha.
